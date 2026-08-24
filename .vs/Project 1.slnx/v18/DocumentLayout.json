@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\dto\\booknamewithpricedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\dto\\booknamewithpricedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\models\\libcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\models\\libcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\migrations\\librarymodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\migrations\\librarymodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|c:\\users\\yasin\\desktop\\mvc 1\\project 1\\project 1\\migrations\\20260818225959_lib1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ADBBF-96CC-8231-E2CC-9CF7DCA2FAFF}|Project 1\\Project 1.csproj|solutionrelative:project 1\\migrations\\20260818225959_lib1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookNameWithPriceDto.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\DTO\\BookNameWithPriceDto.cs",
+              "RelativeDocumentMoniker": "Project 1\\DTO\\BookNameWithPriceDto.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\DTO\\BookNameWithPriceDto.cs",
+              "RelativeToolTip": "Project 1\\DTO\\BookNameWithPriceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T21:38:39.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Project 1\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Project 1\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T14:52:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260818225959_lib1.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Migrations\\20260818225959_lib1.cs",
+              "RelativeDocumentMoniker": "Project 1\\Migrations\\20260818225959_lib1.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Migrations\\20260818225959_lib1.cs",
+              "RelativeToolTip": "Project 1\\Migrations\\20260818225959_lib1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T22:59:59.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Libcontext.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Models\\Libcontext.cs",
+              "RelativeDocumentMoniker": "Project 1\\Models\\Libcontext.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Models\\Libcontext.cs",
+              "RelativeToolTip": "Project 1\\Models\\Libcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T22:16:30.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Project 1\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Models\\Books.cs",
+              "RelativeToolTip": "Project 1\\Models\\Books.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T20:49:17.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Program.cs",
+              "RelativeDocumentMoniker": "Project 1\\Program.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Program.cs",
+              "RelativeToolTip": "Project 1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T21:25:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Migrations\\LibraryModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Project 1\\Migrations\\LibraryModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Migrations\\LibraryModelSnapshot.cs",
+              "RelativeToolTip": "Project 1\\Migrations\\LibraryModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T22:12:51.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "Project 1\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\Models\\Library.cs",
+              "RelativeToolTip": "Project 1\\Models\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T21:00:26.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\appsettings.json",
+              "RelativeDocumentMoniker": "Project 1\\appsettings.json",
+              "ToolTip": "C:\\Users\\yasin\\Desktop\\MVC 1\\Project 1\\Project 1\\appsettings.json",
+              "RelativeToolTip": "Project 1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-18T21:24:30.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
